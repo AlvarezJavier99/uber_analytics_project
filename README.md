@@ -1,16 +1,23 @@
-## Hi there 👋
+# Uber Ride Analytics: Revenue Optimization Project
 
-<!--
-**AlvarezJavier99/AlvarezJavier99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Project Objective
+Analyze Uber trip data to identify patterns and provide 
+data-driven recommendations for maximizing driver revenue.
 
-Here are some ideas to get you started:
+## Key Questions
+1. What are the peak earning hours and days?
+2. Which locations generate the highest revenue?
+3. Can we predict high-demand periods?
+4. What factors influence trip profitability?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+- Python (pandas, scikit-learn)
+- Jupyter Notebook
+- Tableau/Matplotlib
+- SQL (optional)
+
+## Status
+In Progress - Data Collection Phase
+
+## Author
+Javier Alvarez | [LinkedIn] | Alvarez99Javier@gmail.com
