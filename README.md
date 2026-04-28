@@ -12,7 +12,7 @@ data-driven recommendations for maximizing driver revenue.
 
 ## Technologies
 - Python (pandas, scikit-learn)
-- Jupyter Notebook
+- VS Code Notebook
 - Tableau/Matplotlib
 - SQL (optional)
 
