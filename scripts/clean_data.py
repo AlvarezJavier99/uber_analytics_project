@@ -32,3 +32,5 @@ os.makedirs("data/processed", exist_ok=True)
 df.to_csv("data/processed/clean.csv", index=False)
 
 print("Saved clean file")
+
+## Just cheking to push to GitHub, ignore this part.
