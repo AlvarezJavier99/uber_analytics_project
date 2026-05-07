@@ -17,7 +17,7 @@ data-driven recommendations for maximizing driver revenue.
 - SQL (optional)
 
 ## Status
-In Progress - Data Collection Phase
+In Progress - Data Cleaning Phase
 
 ## Author
 Javier Alvarez | [LinkedIn] | Alvarez99Javier@gmail.com
