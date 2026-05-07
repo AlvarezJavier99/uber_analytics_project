@@ -1,0 +1,149 @@
+City_Name,Restaurant_Name,Request_Time_Local,Final_Delivery_Time_Local,Order_Status,Item_Name,Item_quantity,Customizations,Customization_Cost_Local,Special_Instructions,Item_Price,Order_Price,Currency
+Tampa Bay,ABC Fine Wine & Spirits (4th Street),2026-04-20T16:27:23.000Z,2026-04-20T16:52:28.000Z,completed,Alamos Mendoza Argentina Malbec Red Wine (25.3 fl oz),1,"",,"",12.29,38.41,USD
+Tampa Bay,ABC Fine Wine & Spirits (4th Street),2026-04-20T16:27:23.000Z,2026-04-20T16:52:28.000Z,completed,"Catena Zapata Mendoza Argentina Malbec Red Wine, 2019 (750 ml)",1,"",,"",19.9,38.41,USD
+Tampa Bay,Five Guys (7074 US Hwy 19N) FL - 197,2026-04-02T13:03:09.000Z,2026-04-02T14:33:13.000Z,completed,Little Bacon Cheeseburger,1,"Ketchup (+30 Calories), Mayo (+110 Calories)",0.0,"",11.99,18.89,USD
+Tampa Bay,Five Guys (7074 US Hwy 19N) FL - 197,2026-04-02T13:03:09.000Z,2026-04-02T14:33:13.000Z,completed,Little Fries,1,"",,"",6.59,18.89,USD
+Tampa Bay,Five Guys (2201 Tyrone Blvd N) FL - 375,2026-03-22T13:41:14.000Z,2026-03-22T14:36:34.000Z,completed,Little Cheeseburger,1,"Grilled Onions (+ 10 Calories), Ketchup (+30 Calories), Mustard (+ 0 Calories)",0.0,"",9.71,34.3,USD
+Tampa Bay,Five Guys (2201 Tyrone Blvd N) FL - 375,2026-03-22T13:41:14.000Z,2026-03-22T14:36:34.000Z,completed,Little Bacon Cheeseburger,1,"Ketchup (+30 Calories), Mayo (+110 Calories)",0.0,"",10.91,34.3,USD
+Tampa Bay,Five Guys (2201 Tyrone Blvd N) FL - 375,2026-03-22T13:41:14.000Z,2026-03-22T14:36:34.000Z,completed,Little Fries,1,"",,"",5.63,34.3,USD
+Tampa Bay,McDonald's® (Northside),2026-03-12T12:12:59.000Z,2026-03-12T12:37:37.000Z,completed,2 Mix & Match Snack Wrap® Meal,1,"2 Mix & Match Snack Wrap® Meal, Medium Coke®, Shredded Cheese, McCrispy™ Ranch Sauce, Shredded Lettuce, Salt, Ice, Spicy Pepper Sauce",0.0,"",11.19,22.4,USD
+Tampa Bay,McDonald's® (Northside),2026-03-12T12:12:59.000Z,2026-03-12T12:37:37.000Z,completed,Big Mac® Meal,1,"1/10 Lb Beef, Medium Coke®, Shredded Lettuce, Salt, Big Mac® Meal, Diced Onions, American Cheese, Ice, Big Mac® Bun, Pickle, Mac Sauce",0.0,"",10.09,22.4,USD
+Tampa Bay,Walgreens (875 Dr Martin Luther King Jr St N),2026-03-08T13:48:55.000Z,2026-03-08T15:02:26.000Z,completed,"Lay's Potato Chips, Barbecue (7.75 oz)",1,"",,"",5.23,26.2,USD
+Tampa Bay,Walgreens (875 Dr Martin Luther King Jr St N),2026-03-08T13:48:55.000Z,2026-03-08T15:02:26.000Z,completed,"Airheads Sour Candy Bars Full Size, Watermelon Punch-Lemon Berry Squeeze-Blue Blast (0.55 oz, 9 ct)",2,"",,"",6.26,26.2,USD
+Tampa Bay,Walgreens (875 Dr Martin Luther King Jr St N),2026-03-08T13:48:55.000Z,2026-03-08T15:02:26.000Z,completed,Nerds Rainbow Candy (5 oz),2,"",,"",4.16,26.2,USD
+Tampa Bay,Walgreens (875 Dr Martin Luther King Jr St N),2026-03-08T13:48:55.000Z,2026-03-08T15:02:26.000Z,completed,"Coca-Cola Original Soda, Cherry (20 fl oz)",1,"",,"",3.13,26.2,USD
+Tampa Bay,Chick-fil-A (4241 4th St N),2026-03-05T20:19:13.000Z,2026-03-05T20:56:56.000Z,completed,Chick-fil-A® Sandwich Meal,1,"Meal Beverages, Medium Chick-fil-A Waffle Potato Fries®, Chick-fil-A Waffle Potato Fries®, Remove Pickles, Chick-fil-A® Sauce, Coca-Cola® Cherry, Buttery White Bun, Medium Coca-Cola® Cherry, Chick-fil-A® Chicken Sandwich, Meal Sides",0.0,"",12.09,36.52,USD
+Tampa Bay,Chick-fil-A (4241 4th St N),2026-03-05T20:19:13.000Z,2026-03-05T20:56:56.000Z,completed,Chick-fil-A® Sandwich Meal,1,Colby Jack Cheese,0.39,"",12.09,36.52,USD
+Tampa Bay,Chick-fil-A (4241 4th St N),2026-03-05T20:19:13.000Z,2026-03-05T20:56:56.000Z,completed,Chick-fil-A® Sandwich Meal,1,Bacon,2.09,"",12.09,36.52,USD
+Tampa Bay,Chick-fil-A (4241 4th St N),2026-03-05T20:19:13.000Z,2026-03-05T20:56:56.000Z,completed,Market Salad,1,"Market Salad w/ Grilled Filet (Cold), Zesty Apple Cider Vinaigrette Dressing, Roasted Almonds, Remove Harvest Nut Granola",0.0,"",12.99,36.52,USD
+Tampa Bay,CVS (301 3Rd St S),2026-03-05T19:12:00.000Z,2026-03-05T19:57:30.000Z,completed,"Airheads Xtremes Soft Chewy Candy Bites, Rainbow Berry (6 oz)",3,"",,"",9.87,25.13,USD
+Tampa Bay,CVS (301 3Rd St S),2026-03-05T19:12:00.000Z,2026-03-05T19:57:30.000Z,completed,Nerds Rainbow Candy (5 oz),3,"",,"",6.87,25.13,USD
+Tampa Bay,Panda Express (7000 Us Highway 19 N),2026-03-04T18:54:41.000Z,2026-03-04T19:28:49.000Z,completed,Soy Sauce,2,"",,"",0.0,25.11,USD
+Tampa Bay,Panda Express (7000 Us Highway 19 N),2026-03-04T18:54:41.000Z,2026-03-04T19:28:49.000Z,completed,Bowl,1,"The Original Orange Chicken, White Steamed Rice",0.0,"",10.2,25.11,USD
+Tampa Bay,Tijuana Flats (St. Pete),2026-03-03T18:48:06.000Z,2026-03-03T19:33:42.000Z,completed,Bowl,1,"Black Beans, Cilantro Lime Rice, No Chips, No Jalapeños",0.0,"",13.49,57.35,USD
+Tampa Bay,Tijuana Flats (St. Pete),2026-03-03T18:48:06.000Z,2026-03-03T19:33:42.000Z,completed,Bowl,1,Steak,2.1,"",13.49,57.35,USD
+Tampa Bay,Tijuana Flats (St. Pete),2026-03-03T18:48:06.000Z,2026-03-03T19:33:42.000Z,completed,Chips and Queso,1,"",,"",7.49,57.35,USD
+Tampa Bay,Tijuana Flats (St. Pete),2026-03-03T18:48:06.000Z,2026-03-03T19:33:42.000Z,completed,Flautas,1,Classic Chicken,0.2,"",13.79,57.35,USD
+Tampa Bay,Tijuana Flats (St. Pete),2026-03-03T18:48:06.000Z,2026-03-03T19:33:42.000Z,completed,Flautas,1,"Don't Be A Chicken Sh!t Hot Sauce, Side of Guacamole, Side of Hot Sauce",0.0,"",13.79,57.35,USD
+Tampa Bay,Walgreens (875 Dr Martin Luther King Jr St N),2026-03-03T14:42:42.000Z,2026-03-03T15:20:23.000Z,completed,"Coca-Cola Original Soda, Cherry (20 fl oz)",1,"",,"",3.13,29.27,USD
+Tampa Bay,Walgreens (875 Dr Martin Luther King Jr St N),2026-03-03T14:42:42.000Z,2026-03-03T15:20:23.000Z,completed,"Cheetos Crunchy Snacks, Flamin' Hot Flavored (8.5 oz)",1,"",,"",6.18,29.27,USD
+Tampa Bay,Walgreens (875 Dr Martin Luther King Jr St N),2026-03-03T14:42:42.000Z,2026-03-03T15:20:23.000Z,completed,"Liquid I.V. Hydration Multiplier Powdered Electrolyte Drink Mix, Raspberry-Lemonade (1.37 oz, 3 ct)",1,"",,"",7.33,29.27,USD
+Tampa Bay,Walgreens (875 Dr Martin Luther King Jr St N),2026-03-03T14:42:42.000Z,2026-03-03T15:20:23.000Z,completed,"Lay's Potato Chips, Salt & Vinegar (7.75 oz)",1,"",,"",5.23,29.27,USD
+Tampa Bay,CVS (301 3Rd St S),2026-03-02T13:28:19.000Z,2026-03-02T14:09:00.000Z,completed,"Cheetos Cheese Flavored Snacks, Flamin' Hot Limon (2.88 oz)",1,"",,"",2.69,37.16,USD
+Tampa Bay,CVS (301 3Rd St S),2026-03-02T13:28:19.000Z,2026-03-02T14:09:00.000Z,completed,"Lay's Potato Chips, All Dressed (2.5 oz)",1,"",,"",2.69,37.16,USD
+Tampa Bay,CVS (301 3Rd St S),2026-03-02T13:28:19.000Z,2026-03-02T14:09:00.000Z,completed,"Airheads Mini Bars Candy, Assorted (12 oz)",1,"",,"",5.79,37.16,USD
+Tampa Bay,CVS (301 3Rd St S),2026-03-02T13:28:19.000Z,2026-03-02T14:09:00.000Z,completed,Nerds Rainbow Candy (5 oz),2,"",,"",4.58,37.16,USD
+Tampa Bay,CVS (301 3Rd St S),2026-03-02T13:28:19.000Z,2026-03-02T14:09:00.000Z,completed,"MIKE AND IKE Gluten Free Mega Mix Sour Chewy Candy, Assorted (4.25 oz)",2,"",,"",4.58,37.16,USD
+Tampa Bay,CVS (301 3Rd St S),2026-03-02T13:28:19.000Z,2026-03-02T14:09:00.000Z,completed,"Coca-Cola Original Soda, Cherry (20 fl oz)",1,"",,"",3.19,37.16,USD
+Tampa Bay,7-Eleven (475 34Th St N),2026-02-28T15:57:23.000Z,2026-02-28T16:21:15.000Z,completed,Coca-Cola Original Taste Soda (20 oz),1,"",,"",3.29,46.78,USD
+Tampa Bay,7-Eleven (475 34Th St N),2026-02-28T15:57:23.000Z,2026-02-28T16:21:15.000Z,completed,"Lay's Potato Chips, Barbecue (7.75 oz)",1,"",,"",4.29,46.78,USD
+Tampa Bay,7-Eleven (475 34Th St N),2026-02-28T15:57:23.000Z,2026-02-28T16:21:15.000Z,completed,"Nerds Juicy Gummy Clusters Candy, Strawberry Punch (7.15 oz)",1,"",,"",7.09,46.78,USD
+Tampa Bay,7-Eleven (475 34Th St N),2026-02-28T15:57:23.000Z,2026-02-28T16:21:15.000Z,completed,Dr Pepper 20oz,1,"",,"",3.39,46.78,USD
+Tampa Bay,7-Eleven (475 34Th St N),2026-02-28T15:57:23.000Z,2026-02-28T16:21:15.000Z,completed,Airheads Candy Bars (5 x 0.55 oz),2,"",,"",5.18,46.78,USD
+Tampa Bay,7-Eleven (475 34Th St N),2026-02-28T15:57:23.000Z,2026-02-28T16:21:15.000Z,completed,Baby Bottle Pops 1.1oz,2,"",,"",7.58,46.78,USD
+Tampa Bay,7-Eleven (475 34Th St N),2026-02-28T15:57:23.000Z,2026-02-28T16:21:15.000Z,completed,"Airheads Candy, Rainbow Berry (4.5 oz)",1,"",,"",4.19,46.78,USD
+Tampa Bay,SoDough Square (St. Pete),2026-02-26T18:24:56.000Z,2026-02-26T19:30:08.000Z,completed,SMALL NOTORIOUS P.I.Z.,1,"",,"",17.24,57.62,USD
+Tampa Bay,SoDough Square (St. Pete),2026-02-26T18:24:56.000Z,2026-02-26T19:30:08.000Z,completed,SMALL BUILD YOUR OWN,1,"GARLIC PARMESAN BASE, -WHOLE PIZZA-",0.0,"",13.79,57.62,USD
+Tampa Bay,SoDough Square (St. Pete),2026-02-26T18:24:56.000Z,2026-02-26T19:30:08.000Z,completed,STARRY,1,"",,"",2.24,57.62,USD
+Tampa Bay,SoDough Square (St. Pete),2026-02-26T18:24:56.000Z,2026-02-26T19:30:08.000Z,completed,DETROIT DOUGH DOTS,1,"",,"",8.99,57.62,USD
+Tampa Bay,SoDough Square (St. Pete),2026-02-26T18:24:56.000Z,2026-02-26T19:30:08.000Z,completed,SMALL BUILD YOUR OWN,1,"EZZO CUP PEPPERONI, EXTRA CHEESE",2.0,"",13.79,57.62,USD
+Tampa Bay,PDQ Chicken (St. Pete),2026-02-25T12:55:52.000Z,2026-02-25T13:52:53.000Z,completed,Honey Butter Sandwich Meal,1,"Light Ice, No B&B pickles, Fries, Regular Beverage, 20oz Coke",0.0,"",14.09,23.52,USD
+Tampa Bay,PDQ Chicken (St. Pete),2026-02-25T12:55:52.000Z,2026-02-25T13:52:53.000Z,completed,Honey Butter Sandwich Meal,1,"Ranch, Creamy Garlic",0.49,"",14.09,23.52,USD
+Tampa Bay,PDQ Chicken (St. Pete),2026-02-25T12:55:52.000Z,2026-02-25T13:52:53.000Z,completed,Honey Butter Sandwich Meal,1,Toss in Garlic Parmesan,1.19,"",14.09,23.52,USD
+Tampa Bay,Chick-fil-A (4241 4th St N),2026-02-17T20:17:36.000Z,2026-02-17T20:54:45.000Z,completed,Chick-fil-A® Nuggets Meal,1,Fruit Cup,2.15,"",12.29,35.9,USD
+Tampa Bay,Chick-fil-A (4241 4th St N),2026-02-17T20:17:36.000Z,2026-02-17T20:54:45.000Z,completed,Chick-fil-A® Sandwich Meal,1,Colby Jack Cheese,0.39,"",12.09,35.9,USD
+Tampa Bay,Chick-fil-A (4241 4th St N),2026-02-17T20:17:36.000Z,2026-02-17T20:54:45.000Z,completed,Chick-fil-A® Nuggets Meal,1,"Meal Beverages, Chick-fil-A® Nuggets 8 Ct Meal, Medium Fruit Cup, Medium Diet Dr Pepper®, Diet Dr Pepper®, 8 ct Chick-fil-A® Nuggets, Meal Sides",0.0,"",12.29,35.9,USD
+Tampa Bay,Chick-fil-A (4241 4th St N),2026-02-17T20:17:36.000Z,2026-02-17T20:54:45.000Z,completed,Chick-fil-A® Sandwich Meal,1,"Meal Beverages, Medium Chick-fil-A Waffle Potato Fries®, Chick-fil-A Waffle Potato Fries®, Remove Pickles, Chick-fil-A® Sauce, Coca-Cola® Cherry, Buttery White Bun, Medium Coca-Cola® Cherry, Meal Sides, Chick-fil-A® Chicken Sandwich",0.0,"",12.09,35.9,USD
+Tampa Bay,Chick-fil-A (4241 4th St N),2026-02-17T20:17:36.000Z,2026-02-17T20:54:45.000Z,completed,Chick-fil-A® Sandwich Meal,1,Bacon,2.09,"",12.09,35.9,USD
+Tampa Bay,Five Guys (2201 Tyrone Blvd N) FL - 375,2026-02-16T18:46:52.000Z,2026-02-16T19:29:11.000Z,completed,Little Bacon Cheeseburger,1,"Ketchup (+30 Calories), Mayo (+110 Calories)",0.0,"",10.91,32.77,USD
+Tampa Bay,Five Guys (2201 Tyrone Blvd N) FL - 375,2026-02-16T18:46:52.000Z,2026-02-16T19:29:11.000Z,completed,Little Fries,1,"",,"",5.63,32.77,USD
+Tampa Bay,Five Guys (2201 Tyrone Blvd N) FL - 375,2026-02-16T18:46:52.000Z,2026-02-16T19:29:11.000Z,completed,Little Cheeseburger,1,"Grilled Onions (+ 10 Calories), Ketchup (+30 Calories), Mustard (+ 0 Calories)",0.0,"",9.71,32.77,USD
+Tampa Bay,Five Guys (2201 Tyrone Blvd N) FL - 375,2026-02-13T12:53:17.000Z,2026-02-13T13:47:12.000Z,completed,Little Bacon Cheeseburger,1,"Ketchup (+30 Calories), Mayo (+110 Calories)",0.0,"",10.91,34.89,USD
+Tampa Bay,Five Guys (2201 Tyrone Blvd N) FL - 375,2026-02-13T12:53:17.000Z,2026-02-13T13:47:12.000Z,completed,Little Cajun Fries,1,"",,"",5.63,34.89,USD
+Tampa Bay,Five Guys (2201 Tyrone Blvd N) FL - 375,2026-02-13T12:53:17.000Z,2026-02-13T13:47:12.000Z,completed,Little Cheeseburger,1,"Grilled Onions (+ 10 Calories), Ketchup (+30 Calories), Mustard (+ 0 Calories)",0.0,"",9.71,34.89,USD
+Tampa Bay,Five Guys (2201 Tyrone Blvd N) FL - 375,2026-02-07T19:55:28.000Z,2026-02-07T20:45:28.000Z,completed,Little Bacon Cheeseburger,1,"Ketchup (+30 Calories), Mayo (+110 Calories)",0.0,"",10.91,36.11,USD
+Tampa Bay,Five Guys (2201 Tyrone Blvd N) FL - 375,2026-02-07T19:55:28.000Z,2026-02-07T20:45:28.000Z,completed,Regular Fries,1,"",,"",6.83,36.11,USD
+Tampa Bay,Five Guys (2201 Tyrone Blvd N) FL - 375,2026-02-07T19:55:28.000Z,2026-02-07T20:45:28.000Z,completed,Little Cheeseburger,1,"Grilled Onions (+ 10 Calories), Ketchup (+30 Calories), Mustard (+ 0 Calories)",0.0,"",9.71,36.11,USD
+Tampa Bay,CVS (845 4Th St. North),2026-02-01T15:42:03.000Z,2026-02-01T16:48:32.000Z,completed,"MIKE AND IKE Gluten Free Mega Mix Sour Chewy Candy, Assorted (4.25 oz)",2,"",,"",4.58,32.11,USD
+Tampa Bay,CVS (845 4Th St. North),2026-02-01T15:42:03.000Z,2026-02-01T16:48:32.000Z,completed,"Airheads Candy, Rainbow Berry (4.5 oz)",2,"",,"",5.98,32.11,USD
+Tampa Bay,CVS (845 4Th St. North),2026-02-01T15:42:03.000Z,2026-02-01T16:48:32.000Z,completed,"Ruffles Baked Potato Chips, Cheddar & Sour Cream (6.25 oz)",1,"",,"",4.99,32.11,USD
+Tampa Bay,CVS (845 4Th St. North),2026-02-01T15:42:03.000Z,2026-02-01T16:48:32.000Z,completed,"Coca-Cola Original Soda, Cherry (20 fl oz)",1,"",,"",3.19,32.11,USD
+Tampa Bay,CVS (845 4Th St. North),2026-02-01T15:42:03.000Z,2026-02-01T16:48:32.000Z,completed,Dr Pepper Diet Soda (20 fl oz),1,"",,"",3.19,32.11,USD
+Tampa Bay,CVS (845 4Th St. North),2026-02-01T15:42:03.000Z,2026-02-01T16:48:32.000Z,completed,"Lay's Potato Chips, Bbq (2.62 oz)",1,"",,"",2.69,32.11,USD
+Tampa Bay,Gopuff - Liquor & More,2026-02-01T14:49:02.000Z,2026-02-01T15:42:56.000Z,completed,"Ruffles Baked Potato Chips, Cheddar & Sour Cream (6.25 oz)",1,"",,"",5.69,34.45,USD
+Tampa Bay,Gopuff - Liquor & More,2026-02-01T14:49:02.000Z,2026-02-01T15:42:56.000Z,completed,Dr Pepper Diet Soda (20 fl oz),1,"",,"",3.29,34.45,USD
+Tampa Bay,Gopuff - Liquor & More,2026-02-01T14:49:02.000Z,2026-02-01T15:42:56.000Z,completed,"MIKE AND IKE Megamix Sour Candies, Assorted (10 oz)",1,"",,"",5.49,34.45,USD
+Tampa Bay,Gopuff - Liquor & More,2026-02-01T14:49:02.000Z,2026-02-01T15:42:56.000Z,completed,"Airheads Candy, Rainbow Berry (4.5 oz)",1,"",,"",2.39,34.45,USD
+Tampa Bay,Gopuff - Liquor & More,2026-02-01T14:49:02.000Z,2026-02-01T15:42:56.000Z,completed,Coca-Cola Original Taste Soda (16 oz),1,"",,"",2.79,34.45,USD
+Tampa Bay,Gopuff - Liquor & More,2026-02-01T14:49:02.000Z,2026-02-01T15:42:56.000Z,completed,"Lay's Potato Chips, Honey Barbecue (7.75 oz)",1,"",,"",5.89,34.45,USD
+Tampa Bay,7-Eleven (475 34Th St N),2026-01-26T14:14:41.000Z,2026-01-26T14:32:49.000Z,completed,Coca-Cola Original Taste Soda (16 fl oz),1,"",,"",2.69,27.7,USD
+Tampa Bay,7-Eleven (475 34Th St N),2026-01-26T14:14:41.000Z,2026-01-26T14:32:49.000Z,completed,Airheads Candy Bars (5 x 0.55 oz),2,"",,"",5.18,27.7,USD
+Tampa Bay,7-Eleven (475 34Th St N),2026-01-26T14:14:41.000Z,2026-01-26T14:32:49.000Z,completed,Charms Super Blow Pops 1.13oz,2,"",,"",1.98,27.7,USD
+Tampa Bay,7-Eleven (475 34Th St N),2026-01-26T14:14:41.000Z,2026-01-26T14:32:49.000Z,completed,"Chester's Fries Corn Snacks, Flamin Hot (5.25 oz)",1,"",,"",3.39,27.7,USD
+Tampa Bay,PDQ Chicken (St. Pete),2026-01-26T12:51:23.000Z,2026-01-26T13:26:08.000Z,completed,Honey Butter Sandwich Meal,1,"Light Ice, Fries, No B&B pickles, Regular Beverage, 20oz Coke",0.0,"",14.09,27.17,USD
+Tampa Bay,PDQ Chicken (St. Pete),2026-01-26T12:51:23.000Z,2026-01-26T13:26:08.000Z,completed,Honey Butter Sandwich Meal,1,Creamy Garlic,0.98,"",14.09,27.17,USD
+Tampa Bay,PDQ Chicken (St. Pete),2026-01-26T12:51:23.000Z,2026-01-26T13:26:08.000Z,completed,Honey Butter Sandwich Meal,1,Ranch,0.49,"",14.09,27.17,USD
+Tampa Bay,PDQ Chicken (St. Pete),2026-01-26T12:51:23.000Z,2026-01-26T13:26:08.000Z,completed,Honey Butter Sandwich Meal,1,Bleu Cheese,0.59,"",14.09,27.17,USD
+Tampa Bay,PDQ Chicken (St. Pete),2026-01-26T12:51:23.000Z,2026-01-26T13:26:08.000Z,completed,Honey Butter Sandwich Meal,1,Regular Fries,4.19,"",14.09,27.17,USD
+Tampa Bay,PDQ Chicken (St. Pete),2026-01-26T12:51:23.000Z,2026-01-26T13:26:08.000Z,completed,Honey Butter Sandwich Meal,1,Toss in Garlic Parmesan,1.19,"",14.09,27.17,USD
+Tampa Bay,Panda Express (7000 Us Highway 19 N),2026-01-24T22:03:34.000Z,2026-01-24T22:29:40.000Z,completed,Plate,1,"The Original Orange Chicken, White Steamed Rice",0.0,"",12.4,39.89,USD
+Tampa Bay,Panda Express (7000 Us Highway 19 N),2026-01-24T22:03:34.000Z,2026-01-24T22:29:40.000Z,completed,Fanta Strawberry,1,Fanta Strawberry,0.0,"",2.65,39.89,USD
+Tampa Bay,Panda Express (7000 Us Highway 19 N),2026-01-24T22:03:34.000Z,2026-01-24T22:29:40.000Z,completed,Fanta Strawberry,1,Medium,0.25,"",2.65,39.89,USD
+Tampa Bay,Panda Express (7000 Us Highway 19 N),2026-01-24T22:03:34.000Z,2026-01-24T22:29:40.000Z,completed,Bowl,1,"The Original Orange Chicken, Chow Mein",0.0,"",10.2,39.89,USD
+Tampa Bay,Tijuana Flats (St. Pete),2026-01-17T11:39:23.000Z,2026-01-17T12:16:03.000Z,completed,Bowl,1,"Replace Onions and Tomato with Pico, Black Beans, Cilantro Lime Rice, No Jalapeños, No Onions",0.0,"",13.49,44.89,USD
+Tampa Bay,Tijuana Flats (St. Pete),2026-01-17T11:39:23.000Z,2026-01-17T12:16:03.000Z,completed,Bowl,1,Steak,2.1,"",13.49,44.89,USD
+Tampa Bay,Tijuana Flats (St. Pete),2026-01-17T11:39:23.000Z,2026-01-17T12:16:03.000Z,completed,Flautas,1,"Don't Be A Chicken Sh!t Hot Sauce, Side of Guacamole, Side of Hot Sauce",0.0,"",13.79,44.89,USD
+Tampa Bay,Tijuana Flats (St. Pete),2026-01-17T11:39:23.000Z,2026-01-17T12:16:03.000Z,completed,Chips and Queso,1,"",,"",7.49,44.89,USD
+Tampa Bay,Tijuana Flats (St. Pete),2026-01-17T11:39:23.000Z,2026-01-17T12:16:03.000Z,completed,Flautas,1,Classic Chicken,0.2,"",13.79,44.89,USD
+Tampa Bay,Wingstop (1411 34TH ST N.),2026-01-15T19:38:50.000Z,2026-01-15T20:17:43.000Z,completed,6 pc Wing Combo,1,Louisiana Voodoo Fries,2.89,"",14.19,28.69,USD
+Tampa Bay,Wingstop (1411 34TH ST N.),2026-01-15T19:38:50.000Z,2026-01-15T20:17:43.000Z,completed,6 pc Wing Combo,1,"Fanta Orange, Ranch, Garlic Parmesan, Bleu Cheese, Lemon Pepper, Seasoned Fries, 6 pc Boneless Combo, 20 oz Soft Drink",0.0,"",14.19,28.69,USD
+Tampa Bay,Walgreens (875 Dr Martin Luther King Jr St N),2026-01-06T13:01:14.000Z,2026-01-06T13:35:09.000Z,completed,"Coca-Cola Original Soda, Cherry (20 fl oz)",1,"",,"",3.13,29.38,USD
+Tampa Bay,Walgreens (875 Dr Martin Luther King Jr St N),2026-01-06T13:01:14.000Z,2026-01-06T13:35:09.000Z,completed,"MIKE AND IKE Gluten Free Mega Mix Sour Chewy Candy, Assorted (4.25 oz)",2,"",,"",4.16,29.38,USD
+Tampa Bay,Walgreens (875 Dr Martin Luther King Jr St N),2026-01-06T13:01:14.000Z,2026-01-06T13:35:09.000Z,completed,"Nerds Gummy Clusters Candy, Very Berry (8 oz)",1,"",,"",7.12,29.38,USD
+Tampa Bay,Walgreens (875 Dr Martin Luther King Jr St N),2026-01-06T13:01:14.000Z,2026-01-06T13:35:09.000Z,completed,"Airheads Sour Candy Bars, Assorted (3.3 oz, 6 ct)",1,"",,"",2.08,29.38,USD
+Tampa Bay,Taco Bell (5th Ave),2025-12-21T20:18:06.000Z,2025-12-21T21:00:38.000Z,completed,Mild Sauce Packet,6,"",,"",0.0,30.11,USD
+Tampa Bay,Taco Bell (5th Ave),2025-12-21T20:18:06.000Z,2025-12-21T21:00:38.000Z,completed,Crunchwrap Supreme®,1,"Nacho Cheese Sauce, Reduced-Fat Sour Cream, Lettuce, Tomatoes, Seasoned Beef",0.0,"",7.92,30.11,USD
+Tampa Bay,Taco Bell (5th Ave),2025-12-21T20:18:06.000Z,2025-12-21T21:00:38.000Z,completed,3 Doritos® Locos Tacos Combo,1,"Nacho Cheese Doritos® Locos Tacos, Cheese, Large MTN DEW® Baja Blast®, Ice, Lettuce, Seasoned Beef",0.0,"",13.04,30.11,USD
+Tampa Bay,Taco Bell (5th Ave),2025-12-21T20:18:06.000Z,2025-12-21T21:00:38.000Z,completed,3 Doritos® Locos Tacos Combo,1,Extra Cheese,0.79,"",13.04,30.11,USD
+Tampa Bay,Panda Express (7000 Us Highway 19 N),2025-12-19T19:58:02.000Z,2025-12-19T20:51:49.000Z,completed,Plate,1,"The Original Orange Chicken, Fried Rice",0.0,"",12.4,54.19,USD
+Tampa Bay,Panda Express (7000 Us Highway 19 N),2025-12-19T19:58:02.000Z,2025-12-19T20:51:49.000Z,completed,Soy Sauce,1,"",,"",0.0,54.19,USD
+Tampa Bay,Panda Express (7000 Us Highway 19 N),2025-12-19T19:58:02.000Z,2025-12-19T20:51:49.000Z,completed,Sweet & Sour Sauce,1,"",,"",0.0,54.19,USD
+Tampa Bay,Panda Express (7000 Us Highway 19 N),2025-12-19T19:58:02.000Z,2025-12-19T20:51:49.000Z,completed,Cream Cheese Rangoon,1,Large,9.6,"",0.0,54.19,USD
+Tampa Bay,Panda Express (7000 Us Highway 19 N),2025-12-19T19:58:02.000Z,2025-12-19T20:51:49.000Z,completed,Dr Pepper,1,Medium,0.25,"",2.65,54.19,USD
+Tampa Bay,Panda Express (7000 Us Highway 19 N),2025-12-19T19:58:02.000Z,2025-12-19T20:51:49.000Z,completed,Dr Pepper,1,Dr Pepper,0.0,"",2.65,54.19,USD
+Tampa Bay,Panda Express (7000 Us Highway 19 N),2025-12-19T19:58:02.000Z,2025-12-19T20:51:49.000Z,completed,Fanta Strawberry,1,Medium,0.25,"",2.65,54.19,USD
+Tampa Bay,Panda Express (7000 Us Highway 19 N),2025-12-19T19:58:02.000Z,2025-12-19T20:51:49.000Z,completed,Bowl,1,"The Original Orange Chicken, Chow Mein",0.0,"",10.2,54.19,USD
+Tampa Bay,Panda Express (7000 Us Highway 19 N),2025-12-19T19:58:02.000Z,2025-12-19T20:51:49.000Z,completed,Cream Cheese Rangoon,1,"Small (3 pcs), Large (12 pcs)",0.0,"",0.0,54.19,USD
+Tampa Bay,Panda Express (7000 Us Highway 19 N),2025-12-19T19:58:02.000Z,2025-12-19T20:51:49.000Z,completed,Fanta Strawberry,1,Fanta Strawberry,0.0,"",2.65,54.19,USD
+Tampa Bay,PDQ Chicken (St. Pete),2025-12-07T13:27:10.000Z,2025-12-07T14:23:17.000Z,completed,Honey Butter Sandwich Meal,1,"Light Ice, Fries, No B&B pickles, Regular Beverage, 20oz Coke",0.0,"",14.09,37.58,USD
+Tampa Bay,PDQ Chicken (St. Pete),2025-12-07T13:27:10.000Z,2025-12-07T14:23:17.000Z,completed,Honey Butter Sandwich Meal,1,Ranch,0.98,"",14.09,37.58,USD
+Tampa Bay,PDQ Chicken (St. Pete),2025-12-07T13:27:10.000Z,2025-12-07T14:23:17.000Z,completed,Honey Butter Sandwich Meal,1,Regular Fries,4.19,"",14.09,37.58,USD
+Tampa Bay,PDQ Chicken (St. Pete),2025-12-07T13:27:10.000Z,2025-12-07T14:23:17.000Z,completed,Spicy PDQ Salad,1,Ranch,0.59,"",14.29,37.58,USD
+Tampa Bay,PDQ Chicken (St. Pete),2025-12-07T13:27:10.000Z,2025-12-07T14:23:17.000Z,completed,Honey Butter Sandwich Meal,1,Creamy Garlic,0.49,"",14.09,37.58,USD
+Tampa Bay,PDQ Chicken (St. Pete),2025-12-07T13:27:10.000Z,2025-12-07T14:23:17.000Z,completed,Honey Butter Sandwich Meal,1,Bleu Cheese,0.59,"",14.09,37.58,USD
+Tampa Bay,PDQ Chicken (St. Pete),2025-12-07T13:27:10.000Z,2025-12-07T14:23:17.000Z,completed,Honey Butter Sandwich Meal,1,Toss in Garlic Parmesan,1.19,"",14.09,37.58,USD
+Tampa Bay,PDQ Chicken (St. Pete),2025-12-07T13:27:10.000Z,2025-12-07T14:23:17.000Z,completed,Spicy PDQ Salad,1,Ranch,0.0,"",14.29,37.58,USD
+Tampa Bay,7-Eleven (475 34Th St N),2025-11-28T13:46:16.000Z,2025-11-28T14:18:03.000Z,completed,"Airheads Candy Bars, Assorted (5 x 0.55 oz)",1,"",,"",2.59,17.98,USD
+Tampa Bay,7-Eleven (475 34Th St N),2025-11-28T13:46:16.000Z,2025-11-28T14:18:03.000Z,completed,"Chester's Fries Corn Snacks, Flamin Hot (5.25 oz)",1,"",,"",3.39,17.98,USD
+Tampa Bay,7-Eleven (475 34Th St N),2025-11-28T13:46:16.000Z,2025-11-28T14:18:03.000Z,completed,Nerds Gummy Clusters Candy (5 oz),2,"",,"",8.18,17.98,USD
+Tampa Bay,Chick-fil-A (4241 4th St N),2025-11-28T13:44:19.000Z,2025-11-28T14:22:09.000Z,completed,Chick-fil-A® Sandwich Meal,1,"Meal Beverages, Medium Chick-fil-A Waffle Potato Fries®, Chick-fil-A Waffle Potato Fries®, Remove Pickles, Chick-fil-A® Sauce, Coca-Cola® Cherry, Buttery White Bun, Garden Herb Ranch Sauce, Medium Coca-Cola® Cherry, Chick-fil-A® Chicken Sandwich, Meal Sides",0.0,"",12.09,18.36,USD
+Tampa Bay,Chick-fil-A (4241 4th St N),2025-11-28T13:44:19.000Z,2025-11-28T14:22:09.000Z,completed,Chick-fil-A® Sandwich Meal,1,Colby Jack Cheese,0.39,"",12.09,18.36,USD
+Tampa Bay,Chick-fil-A (4241 4th St N),2025-11-28T13:44:19.000Z,2025-11-28T14:22:09.000Z,completed,Chick-fil-A® Sandwich Meal,1,Bacon,2.09,"",12.09,18.36,USD
+Tampa Bay,7-Eleven (475 34Th St N),2025-11-08T15:03:21.000Z,2025-11-08T15:23:53.000Z,completed,"Airheads Candy Bars, Assorted (5 x 0.55 oz)",1,"",,"",2.59,19.95,USD
+Tampa Bay,7-Eleven (475 34Th St N),2025-11-08T15:03:21.000Z,2025-11-08T15:23:53.000Z,completed,"Chester's Fries Corn Snacks, Flamin Hot (5.25 oz)",1,"",,"",3.39,19.95,USD
+Tampa Bay,7-Eleven (475 34Th St N),2025-11-08T15:03:21.000Z,2025-11-08T15:23:53.000Z,completed,"Nerds Gummy Clusters Candy, Rainbow (5 oz)",2,"",,"",8.18,19.95,USD
+Tampa Bay,7-Eleven (475 34Th St N),2025-11-08T15:03:21.000Z,2025-11-08T15:23:53.000Z,completed,"Coca-Cola Original Soda, Cherry (20 fl oz)",1,"",,"",3.29,19.95,USD
+Tampa Bay,Chick-fil-A (4241 4th St N),2025-11-08T12:55:46.000Z,2025-11-08T13:27:06.000Z,completed,Chick-fil-A® Sandwich Meal,1,Bacon,2.09,"",12.09,22.63,USD
+Tampa Bay,Chick-fil-A (4241 4th St N),2025-11-08T12:55:46.000Z,2025-11-08T13:27:06.000Z,completed,Chick-fil-A® Sandwich Meal,1,"Meal Beverages, Medium Chick-fil-A Waffle Potato Fries®, Chick-fil-A Waffle Potato Fries®, Remove Pickles, Chick-fil-A® Sauce, Coca-Cola® Cherry, Buttery White Bun, Medium Coca-Cola® Cherry, Meal Sides, Chick-fil-A® Chicken Sandwich",0.0,"",12.09,22.63,USD
+Tampa Bay,Chick-fil-A (4241 4th St N),2025-11-08T12:55:46.000Z,2025-11-08T13:27:06.000Z,completed,Chick-fil-A® Sandwich Meal,1,Colby Jack Cheese,0.39,"",12.09,22.63,USD
+Tampa Bay,Wingstop (1411 34TH ST N.),2025-10-31T23:31:50.000Z,2025-11-01T00:13:46.000Z,completed,10 Wings,1,"Regular Ranch, Regular Bleu Cheese",1.59,"",12.19,41.87,USD
+Tampa Bay,Wingstop (1411 34TH ST N.),2025-10-31T23:31:50.000Z,2025-11-01T00:13:46.000Z,completed,10 Wings,1,Louisiana Voodoo Fries,6.99,"",12.19,41.87,USD
+Tampa Bay,Wingstop (1411 34TH ST N.),2025-10-31T23:31:50.000Z,2025-11-01T00:13:46.000Z,completed,10 Wings,1,"Garlic Parmesan, Lemon Pepper, 10 Boneless Wings",0.0,"",12.19,41.87,USD
+Tampa Bay,Wingstop (1411 34TH ST N.),2025-08-13T14:44:55.000Z,2025-08-13T15:28:57.000Z,completed,6 pc Wing Combo,1,"Ranch, Garlic Parmesan, Bleu Cheese, Lemon Pepper, Seasoned Fries, Coke, 6 pc Boneless Combo",0.0,"",14.19,24.8,USD
+Tampa Bay,Wingstop (1411 34TH ST N.),2025-08-13T14:44:55.000Z,2025-08-13T15:28:57.000Z,completed,6 pc Wing Combo,1,32 oz Soft Drink,0.59,"",14.19,24.8,USD
+Tampa Bay,Wingstop (1411 34TH ST N.),2025-08-13T14:44:55.000Z,2025-08-13T15:28:57.000Z,completed,6 pc Wing Combo,1,Louisiana Voodoo Fries,2.89,"",14.19,24.8,USD
+Tampa Bay,Fresh Kitchen (St. Pete),2025-07-06T17:42:08.000Z,2025-07-06T18:52:06.000Z,completed,Four Bowl,1,HERB BALSAMIC VINAIGRETTE - DF/GF/SF/V,0.39,"",13.99,38.48,USD
+Tampa Bay,Fresh Kitchen (St. Pete),2025-07-06T17:42:08.000Z,2025-07-06T18:52:06.000Z,completed,Six Bowl,1,PICO DE GALLO - DF/GF/SF/V,0.69,"",17.69,38.48,USD
+Tampa Bay,Fresh Kitchen (St. Pete),2025-07-06T17:42:08.000Z,2025-07-06T18:52:06.000Z,completed,Four Bowl,1,CUCUMBER SALAD - DF/GF/SF/V,1.29,"",13.99,38.48,USD
+Tampa Bay,Fresh Kitchen (St. Pete),2025-07-06T17:42:08.000Z,2025-07-06T18:52:06.000Z,completed,Six Bowl,1,"HERB BALSAMIC VINAIGRETTE - DF/GF/SF/V, BROWN RICE - DF/GF/SF/V, BLISTERED GREEN BEANS - DF/GF/SF/V (contains soy), BLACKENED CHICKEN - DF/GF/SF, ADD UTENSILS",0.0,"",17.69,38.48,USD
+Tampa Bay,Fresh Kitchen (St. Pete),2025-07-06T17:42:08.000Z,2025-07-06T18:52:06.000Z,completed,Four Bowl,1,"LEMON GARLIC BROCCOLI - DF/GF/SF/V, BAKED ALMOND CHICKEN - DF/GF, CRUNCHY KALE CAESAR - DF/GF/SF/V (contains nuts), CHILLED SWEET POTATO NOODLES - DF/GF/SF/V, HERB BALSAMIC VINAIGRETTE - DF/GF/SF/V, EXTRA SAUCE, ADD UTENSILS",0.0,"",13.99,38.48,USD

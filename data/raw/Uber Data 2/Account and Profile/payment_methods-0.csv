@@ -1,0 +1,27 @@
+Profile Type,Bank/Issuer Name,Payment Method Brand,Payment Method Type,Used For Collections,Used For Disbursements,Is the Latest Version,Not Payable,Billing Country,Country,Region,Deleted At
+UBER_BANK,,,,false,false,false,false,,,,
+UBER_BANK,,,,false,false,true,false,,,,2025-08-23T00:59:56.000Z
+UBER_BANK,,,,false,false,false,false,,,,
+STORED_VALUE,,,,true,false,true,false,,,,
+PAY_BY_BANK,,,,true,false,true,false,,,,
+BANK_CARD,"BANK OF AMERICA, NATIONAL ASSOCIATION",MASTERCARD,DEBIT,false,true,false,false,US,United States,US & Canada,
+BANK_CARD,CAPITAL BANK  NATIONAL ASSOCIATION,VISA,CREDIT,true,false,true,false,US,United States,US & Canada,
+BANK_CARD,"BANK OF AMERICA, NATIONAL ASSOCIATION",MASTERCARD,DEBIT,true,false,false,false,US,United States,US & Canada,
+BANK_CARD,"BANK OF AMERICA, NATIONAL ASSOCIATION",MASTERCARD,DEBIT,true,false,false,false,US,United States,US & Canada,
+BANK_CARD,WELLS FARGO BANK  NATIONAL ASSOCIATION,VISA,DEBIT,true,false,true,false,US,United States,US & Canada,
+BANK_CARD,"BANK OF AMERICA, NATIONAL ASSOCIATION",MASTERCARD,DEBIT,true,false,false,false,US,United States,US & Canada,
+BANK_CARD,"BANK OF AMERICA, NATIONAL ASSOCIATION",MASTERCARD,DEBIT,false,true,true,false,US,United States,US & Canada,2025-07-11T07:15:15.000Z
+BANK_CARD,"BANK OF AMERICA, NATIONAL ASSOCIATION",MASTERCARD,DEBIT,true,false,false,false,US,United States,US & Canada,
+BANK_CARD,"BANK OF AMERICA, NATIONAL ASSOCIATION",MASTERCARD,DEBIT,true,false,false,false,US,United States,US & Canada,
+BANK_CARD,"BANK OF AMERICA, NATIONAL ASSOCIATION",MASTERCARD,DEBIT,false,true,false,false,US,United States,US & Canada,
+BANK_CARD,"BANK OF AMERICA, NATIONAL ASSOCIATION",MASTERCARD,DEBIT,false,true,true,false,US,United States,US & Canada,2024-04-15T20:43:55.000Z
+BANK_CARD,"BANK OF AMERICA, NATIONAL ASSOCIATION",MASTERCARD,DEBIT,true,false,true,false,US,United States,US & Canada,
+BANK_CARD,"BANK OF AMERICA, NATIONAL ASSOCIATION",MASTERCARD,DEBIT,true,false,true,false,US,United States,US & Canada,
+BANK_CARD,"BANK OF AMERICA, NATIONAL ASSOCIATION",MASTERCARD,DEBIT,false,true,true,false,US,United States,US & Canada,
+BANK_ACCOUNT,"",,,false,true,true,false,US,United States,US & Canada,
+BANK_ACCOUNT,,,,false,true,false,false,US,United States,US & Canada,
+BANK_ACCOUNT,,,,false,true,false,false,US,United States,US & Canada,
+BANK_ACCOUNT,"",,,false,true,false,false,US,United States,US & Canada,
+APPLE_PAY_DISPLAY,,,,true,false,true,false,,,,
+APPLE_PAY,,APPLE PAY MC,UNKNOWN,true,false,true,false,,,,
+APPLE_PAY,,APPLE PAY MC,UNKNOWN,true,false,true,false,,,,

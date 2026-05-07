@@ -9,6 +9,9 @@ data-driven recommendations for maximizing driver revenue.
 2. Which locations generate the highest revenue?
 3. Can we predict high-demand periods?
 4. What factors influence trip profitability?
+5. What rides should be accepted or rejected?
+6. What is the true cost per mile (including depreciation)?
+
 
 ## Technologies
 - Python (pandas, scikit-learn)

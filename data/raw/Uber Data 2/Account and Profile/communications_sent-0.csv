@@ -1,0 +1,71 @@
+Time,Subject,Content,Medium,Direction
+2026-04-20 00:42:43,,"OK, got it!",intercom_text,out
+2026-04-20 00:42:43,"{""title"":""Message From Driver""}","OK, got it!",push,out
+2026-04-19 04:13:38,,I've arrived,push,out
+2026-04-19 04:13:38,,I've arrived,intercom_text,out
+2026-04-19 02:51:29,"{""title"":""Message From Driver""}","OK, got it!",push,out
+2026-04-19 02:51:29,,"OK, got it!",intercom_text,out
+2026-04-19 01:26:58,"{""title"":""Message From Driver""}",I'm on my way,push,out
+2026-04-19 01:26:58,,I'm on my way,intercom_text,out
+2026-04-18 23:51:59,"{""title"":""Message From Driver""}","OK, got it!",push,out
+2026-04-18 23:51:59,,"OK, got it!",intercom_text,out
+2026-04-18 19:05:29,"{""title"":""Message From Driver""}",I'm on my way,push,out
+2026-04-18 19:05:29,,I'm on my way,intercom_text,out
+2026-04-18 18:02:51,,"OK, got it!",intercom_text,out
+2026-04-18 18:02:51,,"OK, got it!",push,out
+2026-04-18 07:17:20,,It should let you up date pickup,intercom_text,out
+2026-04-18 07:17:20,,It should let you up date pickup,push,out
+2026-04-18 07:16:29,,Where are you,push,out
+2026-04-18 07:16:29,,Where are you,intercom_text,out
+2026-04-18 04:40:18,,Are you at the corner,intercom_text,out
+2026-04-18 04:40:18,"{""title"":""Message From Driver""}",Are you at the corner,push,out
+2026-04-18 04:39:30,"{""title"":""Message From Driver""}",I am in the front line of cars with hazard on,push,out
+2026-04-18 04:39:30,,I am in the front line of cars with hazard on,intercom_text,out
+2026-04-18 04:33:15,"{""title"":""Message From Driver""}",I've arrived,push,out
+2026-04-18 04:33:15,,I've arrived,intercom_text,out
+2026-04-18 04:11:08,,Okay heading to yiu,intercom_text,out
+2026-04-18 04:11:08,"{""title"":""Message From Driver""}",Okay heading to yiu,push,out
+2026-04-18 04:10:02,"{""title"":""Message From Driver""}",Are you at the corner,push,out
+2026-04-18 04:10:02,,Are you at the corner,intercom_text,out
+2026-04-18 04:05:08,,I've arrived,push,out
+2026-04-18 04:05:07,,I've arrived,intercom_text,out
+2026-04-18 04:02:03,,I've arrived,push,out
+2026-04-18 04:02:03,,I've arrived,intercom_text,out
+2026-04-18 02:54:37,"{""title"":""Message From Driver""}","OK, got it!",push,out
+2026-04-18 02:54:37,,"OK, got it!",intercom_text,out
+2026-04-18 01:36:14,,I am on the side of the curb before the fence,push,out
+2026-04-18 01:36:14,,I am on the side of the curb before the fence,intercom_text,out
+2026-04-18 01:36:05,,Hey I can not go into the pick up zone,push,out
+2026-04-18 01:36:05,,Hey I can not go into the pick up zone,intercom_text,out
+2026-04-17 02:00:35,"{""title"":""Message From Driver""}",Are you where the buses  are,push,out
+2026-04-17 02:00:35,,Are you where the buses  are,intercom_text,out
+2026-04-17 01:56:04,"{""title"":""Message From Driver""}","OK, got it!",push,out
+2026-04-17 01:56:04,,"OK, got it!",intercom_text,out
+2026-04-17 01:10:26,,"OK, got it!",push,out
+2026-04-17 01:10:26,,"OK, got it!",intercom_text,out
+2026-04-12 06:11:36,,I've arrived,intercom_text,out
+2026-04-12 06:11:36,"{""title"":""Message From Driver""}",I've arrived,push,out
+2026-04-12 04:28:52,,I have my hazards on,intercom_text,out
+2026-04-12 04:28:52,"{""title"":""Message From Driver""}",I have my hazards on,push,out
+2026-04-12 04:28:44,"{""title"":""Message From Driver""}",In front of my rich uncle,push,out
+2026-04-12 04:28:43,,In front of my rich uncle,intercom_text,out
+2026-04-12 03:39:05,"{""title"":""Message From Driver""}","OK, got it!",push,out
+2026-04-12 03:39:04,,"OK, got it!",intercom_text,out
+2026-04-12 02:58:17,,I've arrived,push,out
+2026-04-12 02:58:17,,I've arrived,intercom_text,out
+2026-04-11 02:45:03,,Ok no rush we’ll wait,push,out
+2026-04-11 02:45:03,,Ok no rush we’ll wait,intercom_text,out
+2026-04-10 15:49:48,,"OK, got it!",intercom_text,out
+2026-04-10 15:49:48,"{""title"":""Message From Driver""}","OK, got it!",push,out
+2026-04-10 13:27:15,"{""title"":""Message From Driver""}","OK, got it!",push,out
+2026-04-10 13:27:15,,"OK, got it!",intercom_text,out
+2026-04-01 20:14:50,"{""title"":""Message From Driver""}","OK, got it!",push,out
+2026-04-01 20:14:50,,"OK, got it!",intercom_text,out
+2026-03-31 12:39:33,"{""title"":""Message From Driver""}","OK, got it!",push,out
+2026-03-31 12:39:33,,"OK, got it!",intercom_text,out
+2026-03-27 17:25:50,"{""title"":""Message From Driver""}",I am in front of door 107,push,out
+2026-03-27 17:25:50,,I am in front of door 107,intercom_text,out
+2026-03-27 15:51:24,,"OK, got it!",intercom_text,out
+2026-03-27 15:51:24,,"OK, got it!",push,out
+2026-03-25 14:54:47,"{""title"":""Message From Driver""}","OK, got it!",push,out
+2026-03-25 14:54:47,,"OK, got it!",intercom_text,out
