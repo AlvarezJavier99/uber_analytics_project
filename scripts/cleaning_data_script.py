@@ -121,4 +121,4 @@ print(df[[
     "begintrip_timestamp_utc",
 ]].head())
 #====================================================================================================
-###### PAUSE POINT - I WAS IN THE PROCESS OF CALACUTING THE MOST ACRUTE WAY TO DETERMINE COST PER MILE AND ABERAGE MILES DRIVEN A DAY 
+###### PAUSE POINT - I WAS IN THE PROCESS OF CALACUTING THE MOST ACRUTE WAY TO DETERMINE COST PER MILE AND AVERAGE MILES DRIVEN A DAY 
